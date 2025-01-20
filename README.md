@@ -41,7 +41,7 @@ scikit-learn
 pytorch
 torchvision
 torchtext
-
+```
 
 # Model Results
 
